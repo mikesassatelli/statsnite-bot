@@ -14,4 +14,4 @@ Once invited to your Discord server, use !statshelp to see a list of commands.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. This bot may be outdated, and is no longer actively supported. 
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GNU GPL 3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
